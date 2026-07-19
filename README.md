@@ -20,9 +20,3 @@
 >  ask_me_about         :  AI agents, LLMs, ML, startups, anime, chess
 >  fun_fact             :  I turn hackathon projects into research papers
 ```
-
-### Stack I Use
-
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,flask,ts,js,nextjs,react,nodejs,mongodb,postgres,prisma,redis,gcp,aws,cloudflare,docker,kubernetes,git,linux,anaconda,bash)](https://skillicons.dev)
-
-<br>
