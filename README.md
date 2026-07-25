@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aaditya3301/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/aaditya_s3301"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:aadityasinghal77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=aaditya3301&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" />
 </p>
 
